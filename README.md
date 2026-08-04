@@ -1,2 +1,5 @@
-# python-essentials-labs
-My personal solutions to Python Essentials practice labs while learning Python.
+# Python Essentials Labs
+
+This repository contains my personal solutions to practice labs completed while studying Python Essentials.
+
+The original lab instructions are not included. All code was written by me for educational purposes.
